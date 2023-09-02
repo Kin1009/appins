@@ -26,3 +26,4 @@ E:\appins\obj\Debug\net8.0\refint\appins.dll
 E:\appins\obj\Debug\net8.0\appins.pdb
 E:\appins\obj\Debug\net8.0\appins.genruntimeconfig.cache
 E:\appins\obj\Debug\net8.0\ref\appins.dll
+E:\appins\bin\Debug\net8.0\Newtonsoft.Json.dll
