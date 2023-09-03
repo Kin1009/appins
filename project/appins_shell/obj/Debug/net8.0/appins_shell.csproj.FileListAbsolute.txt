@@ -1,0 +1,12 @@
+E:\appins_shell\bin\Debug\net8.0\appins_shell.deps.json
+E:\appins_shell\bin\Debug\net8.0\appins_shell.dll
+E:\appins_shell\bin\Debug\net8.0\appins_shell.pdb
+E:\appins_shell\obj\Debug\net8.0\appins_shell.csproj.AssemblyReference.cache
+E:\appins_shell\obj\Debug\net8.0\appins_shell.GeneratedMSBuildEditorConfig.editorconfig
+E:\appins_shell\obj\Debug\net8.0\appins_shell.AssemblyInfoInputs.cache
+E:\appins_shell\obj\Debug\net8.0\appins_shell.AssemblyInfo.cs
+E:\appins_shell\obj\Debug\net8.0\appins_shell.csproj.CoreCompileInputs.cache
+E:\appins_shell\obj\Debug\net8.0\appins_shell.dll
+E:\appins_shell\obj\Debug\net8.0\refint\appins_shell.dll
+E:\appins_shell\obj\Debug\net8.0\appins_shell.pdb
+E:\appins_shell\obj\Debug\net8.0\ref\appins_shell.dll

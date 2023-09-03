@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1WY84N4bOvfGnHP2AD7k90da6/RbKu3IsgMCQF1NlC0QaQkop3SmHpH4XZaSFgRe7PkPTnU06l+f+ongYk21Q==",
+  "success": true,
+  "projectFilePath": "E:\\appins_main\\appins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kin\\.nuget\\packages\\libgit2sharp\\0.27.2\\libgit2sharp.0.27.2.nupkg.sha512",
+    "C:\\Users\\Kin\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.320\\libgit2sharp.nativebinaries.2.0.320.nupkg.sha512",
+    "C:\\Users\\Kin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
